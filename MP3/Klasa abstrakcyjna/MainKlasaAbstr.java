@@ -1,4 +1,4 @@
-public class Main {
+public class MainKlasaAbstr {
     public static void main(String[] args) {
         Bus bus = new Bus();
         Driver d1 = new Driver("Jan", true);

@@ -5,6 +5,10 @@
     <content url="file://$MODULE_DIR$">
       <sourceFolder url="file://$MODULE_DIR$/Klasa abstrakcyjna" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Dynamiczne" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Overlapping" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Wieloaspektowe" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Wielodziedziczenie" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
