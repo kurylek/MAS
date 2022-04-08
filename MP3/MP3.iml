@@ -6,7 +6,8 @@
       <sourceFolder url="file://$MODULE_DIR$/Klasa abstrakcyjna" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Dynamiczne" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Overlapping" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Overlapping/Kompozycja" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Overlapping/Splaszczenie" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Wieloaspektowe" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Wielodziedziczenie" isTestSource="false" />
     </content>

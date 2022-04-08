@@ -2,15 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e9b73f8d-4a91-4163-ade4-b289bff0e68d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Wieloaspektowe/Device.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Wieloaspektowe/MainWieloaspektowe.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Wieloaspektowe/Printer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Wieloaspektowe/Scaner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Overlapping/Splaszczenie/MainOverlappingS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Overlapping/Splaszczenie/PersonOverlappingS.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Klasa abstrakcyjna/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Klasa abstrakcyjna/MainKlasaAbstr.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/MP3.iml" beforeDir="false" afterPath="$PROJECT_DIR$/MP3.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MP3/Main.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,9 +44,16 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
   </component>
-  <component name="RunManager" selected="Application.MainWieloaspektowe">
+  <component name="RunManager" selected="Application.MainOverlappingS">
     <configuration name="MainKlasaAbstr" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="MainKlasaAbstr" />
+      <module name="MP3" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainOverlappingS" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MainOverlappingS" />
       <module name="MP3" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -66,6 +68,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MainOverlappingS" />
         <item itemvalue="Application.MainWieloaspektowe" />
         <item itemvalue="Application.MainKlasaAbstr" />
       </list>
